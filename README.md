@@ -31,4 +31,4 @@ I'm a lawyer turned aspiring <strong>Software Engineer</strong>, currently on a 
 
 Feel free to connect with me on social media. I'm always open to interesting conversations, collaboration, or just to say hi!
 
-- Reach me on Reach me on [LinkedIn](https://www.linkedin.com/in/beatriz-bazaglia-4a1110254/).
+- Reach me on [LinkedIn](https://www.linkedin.com/in/beatriz-bazaglia-4a1110254/).
