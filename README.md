@@ -28,7 +28,7 @@ I'm a lawyer turned aspiring <strong>Software Engineer</strong>, currently on a 
 As a side venture, I'm creating informative documents about 42 school projects.
 I believe in the power of sharing knowledge and making learning more accessible. By documenting my experiences and insights, I aim to help others navigate and excel in their coding endeavors.
 
-- Read some of my posts on [Medium](https://medium.com/@beatrizbazaglia](https://medium.com/@beatrizbazaglia)).
+- Read some of my posts on Medium: [Medium - @beatrizbazaglia](https://medium.com/@beatrizbazaglia)
 
 ### 💼 Professional Background
 
