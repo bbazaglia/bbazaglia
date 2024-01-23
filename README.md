@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋
-#### I'm beatriz, but you may call me Bia.
+I'm Beatriz, but you may call me Bia.
 
-I'm a lawyer turned aspiring software engineer, currently on a learning journey at [42 São Paulo](https://www.42network.org/). 
+I'm a lawyer turned aspiring <strong>Software Engineer</strong>, currently on a learning journey at [42 São Paulo](https://www.42network.org/). 
 
 ### 🌱 Learning and Growing
 
-- Exploring the world of Software Engineering.
 - Currently focusing on C and UNIX.
 - Always excited to explore new technologies and frameworks.
 
