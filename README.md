@@ -23,6 +23,13 @@ I'm a lawyer turned aspiring <strong>Software Engineer</strong>, currently on a 
 - Currently focusing on C and UNIX.
 - Always excited to explore new technologies and frameworks.
 
+### 🎯 Side Venture
+
+As a side venture, I'm creating informative documents about 42 school projects.
+I believe in the power of sharing knowledge and making learning more accessible. By documenting my experiences and insights, I aim to help others navigate and excel in their coding endeavors.
+
+- Read some of my posts on [Medium](https://medium.com/@beatrizbazaglia](https://medium.com/@beatrizbazaglia)).
+
 ### 💼 Professional Background
 
 - My legal background has equipped me with strong communication, attention to detail, and analytical thinking.
