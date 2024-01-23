@@ -30,10 +30,6 @@ I believe in the power of sharing knowledge and making learning more accessible.
 
 - Read some of my posts [Medium](https://medium.com/@beatrizbazaglia).
 
-### 💼 Professional Background
-
-- My legal background has equipped me with strong communication, attention to detail, and analytical thinking.
-
 ### 🤝 Let's Connect
 
 Feel free to connect with me on social media. I'm always open to interesting conversations, collaboration, or just to say hi!
