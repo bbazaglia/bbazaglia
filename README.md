@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 I'm Beatriz, but you may call me Bia.
 
-I'm a lawyer turned aspiring <strong>Software Engineer</strong>, currently on a learning journey at [42 São Paulo](https://www.42network.org/). 
+I'm a lawyer turned aspiring <strong>Software Engineer</strong>, presently on a learning journey at [42 São Paulo](https://www.42network.org/). 
 
 ### 🌱 Learning and Growing
 
@@ -28,7 +28,7 @@ I'm a lawyer turned aspiring <strong>Software Engineer</strong>, currently on a 
 As a side venture, I'm creating informative documents about 42 school projects.
 I believe in the power of sharing knowledge and making learning more accessible. By documenting my experiences and insights, I aim to help others navigate and excel in their coding endeavors.
 
-- Read some of my posts [Medium](https://medium.com/@beatrizbazaglia).
+- Read some of my posts on [Medium](https://medium.com/@beatrizbazaglia).
 
 ### 🤝 Let's Connect
 
