@@ -21,7 +21,7 @@ I'm a lawyer turned aspiring <strong>Software Engineer</strong>, presently on a 
 ### 🌱 Learning and Growing
 
 - Currently focusing on C and UNIX.
-- Always excited to explore new technologies and frameworks.
+- Always excited to explore new technologies.
 
 ### 🎯 Side Venture
 
