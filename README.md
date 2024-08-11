@@ -20,7 +20,7 @@ I'm a lawyer turned aspiring <strong>Software Engineer</strong>, presently on a 
 
 ### 🌱 Learning and Growing
 
-- Currently focusing on C and UNIX.
+- Currently focusing on C, C++ and NodeJs.
 - Always excited to explore new technologies.
 
 ### 🎯 Side Venture
