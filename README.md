@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 ## Hi there 👋
 I'm Beatriz, but you may call me Bia.
 
-I'm a lawyer turned aspiring <strong>Software Engineer</strong>, presently on a learning journey at [42 São Paulo](https://www.42network.org/). 
+### 👩‍💻 From Law to Code
+
+I transitioned from law to software development, and today, I work as a Software Developer Consultant at Thoughtworks while continuing my learning journey at [42 São Paulo](https://www.42network.org/). 
 
 ### 🌱 Learning and Growing
 
