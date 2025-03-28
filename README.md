@@ -18,12 +18,14 @@ I'm Beatriz, but you may call me Bia.
 
 ### 👩‍💻 From Law to Code
 
-I transitioned from law to software development, and today, I work as a Software Developer Consultant at Thoughtworks while continuing my learning journey at [42 São Paulo](https://www.42network.org/). 
+I made the jump from law to software development and now work as a Software Developer Consultant at Thoughtworks, while continuing my learning journey at [42 São Paulo](https://www.42network.org/). 
 
 ### 🌱 Learning and Growing
 
-- Currently focusing on C, C++ and NodeJs.
-- Always excited to explore new technologies.
+I'm fluent in C and C++, but I also explore Node.js, TypeScript, Python, and sometimes (why not?) Java. 
+
+I enjoy diving into different technologies and seeing where they take me.
+
 
 ### 🎯 Side Venture
 
