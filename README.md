@@ -22,9 +22,7 @@ I made the jump from law to software development and now work as a Software Deve
 
 ### 🌱 Learning and Growing
 
-I'm fluent in C and C++, but I also explore Node.js, TypeScript, Python, and sometimes (why not?) Java. 
-
-I enjoy diving into different technologies and seeing where they take me.
+My main stacks are C, C++ and TypeScript, but I enjoy diving into different technologies and see where they take me.
 
 
 ### 🎯 Side Venture
