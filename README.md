@@ -18,7 +18,7 @@ I'm Beatriz, but you may call me Bia.
 
 ### 👩‍💻 From Law to Code
 
-I made the jump from law to software development and now work as a Software Developer Consultant at Thoughtworks, while continuing my learning journey at [42 São Paulo](https://www.42network.org/). 
+Former lawyer turned software developer, now working at Thoughtworks. Trained at [42 São Paulo](https://www.42network.org/). 
 
 ### 🌱 Learning and Growing
 
