@@ -26,9 +26,7 @@ My main stacks are C, C++ and TypeScript, but I enjoy diving into different tech
 
 
 ### 🎯 Side Venture
-
-As a side venture, I'm creating informative documents about 42 school projects.
-I believe in the power of sharing knowledge and making learning more accessible. By documenting my experiences and insights, I aim to help others navigate and excel in their coding endeavors.
+During my time at 42, I created technical articles on Medium documenting my projects and learnings. I believe in sharing knowledge and making the learning journey more accessible.
 
 - Read some of my posts on [Medium](https://medium.com/@beatrizbazaglia).
 
