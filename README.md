@@ -18,11 +18,11 @@ I'm Beatriz, but you may call me Bia.
 
 ### 👩‍💻 From Law to Code
 
-Former lawyer turned software developer, now working at Thoughtworks. Trained at [42 São Paulo](https://www.42network.org/). 
+Former lawyer turned software developer, now working at Nubank. Trained at [42 São Paulo](https://www.42network.org/). 
 
 ### 🌱 Learning and Growing
 
-My main stacks are C, C++ and TypeScript, but I enjoy diving into different technologies and see where they take me.
+My main stacks are C, C++, Python and TypeScript, but I enjoy diving into different technologies and see where they take me.
 
 
 ### 🎯 Side Venture
